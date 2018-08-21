@@ -12,7 +12,7 @@ issues, as well as missing features.
 SETUP
 ************
 
-- Clone repository to "imss" directory
+- Clone repository to "htdocs/imss" directory
 - Fetch all / Get latest change
 - Extract database schema
 - run localhost 
