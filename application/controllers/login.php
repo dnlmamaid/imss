@@ -6,7 +6,7 @@ class login extends CI_Controller {
 
 	function __construct() {
 		parent::__construct();
-		$this -> load -> model('users_model');
+		$this -> load -> model('Users_Model');
 	}
 
 
